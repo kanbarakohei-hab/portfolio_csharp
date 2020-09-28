@@ -1,0 +1,9 @@
+C:\Users\神原洸平\Documents\STUDY\04_csharp\portfolio_csharp_kanbara\bin\Debug\portfolio_csharp_kanbara.exe.config
+C:\Users\神原洸平\Documents\STUDY\04_csharp\portfolio_csharp_kanbara\bin\Debug\portfolio_csharp_kanbara.exe
+C:\Users\神原洸平\Documents\STUDY\04_csharp\portfolio_csharp_kanbara\bin\Debug\portfolio_csharp_kanbara.pdb
+C:\Users\神原洸平\Documents\STUDY\04_csharp\portfolio_csharp_kanbara\obj\Debug\portfolio_csharp_kanbara.csprojAssemblyReference.cache
+C:\Users\神原洸平\Documents\STUDY\04_csharp\portfolio_csharp_kanbara\obj\Debug\portfolio_csharp_kanbara.Properties.Resources.resources
+C:\Users\神原洸平\Documents\STUDY\04_csharp\portfolio_csharp_kanbara\obj\Debug\portfolio_csharp_kanbara.csproj.GenerateResource.cache
+C:\Users\神原洸平\Documents\STUDY\04_csharp\portfolio_csharp_kanbara\obj\Debug\portfolio_csharp_kanbara.csproj.CoreCompileInputs.cache
+C:\Users\神原洸平\Documents\STUDY\04_csharp\portfolio_csharp_kanbara\obj\Debug\portfolio_csharp_kanbara.exe
+C:\Users\神原洸平\Documents\STUDY\04_csharp\portfolio_csharp_kanbara\obj\Debug\portfolio_csharp_kanbara.pdb
